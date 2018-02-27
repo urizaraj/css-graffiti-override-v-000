@@ -3,6 +3,7 @@
 #wall > #tag-3.slick.wicked,
 #wall > .parent > #tag-4,
 #wall > .parent > #tag-5.slick,
-#wall >  {
+#wall > .parent > div > #tag-6,
+#wall > .parent > div > #tag-7.slick {
   display: none;
 }
