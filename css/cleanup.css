@@ -4,6 +4,6 @@
 #wall > .parent > #tag-4,
 #wall > div.parent > div#tag-5.slick,
 body > div#wall > div.parent + div.parent > div > div#tag-6,
-body > #wall > .parent > div > #tag-7.slick {
+body > div#wall > .parent > div > #tag-7.slick {
   display: none;
 }
