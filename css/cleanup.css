@@ -1,7 +1,8 @@
 #wall > div.tag-1,
 #wall > #tag-2,
 #wall > #tag-3.slick.wicked,
-#wall > #tag-4,
-#wall > #tag-5 {
+#wall > .parent > #tag-4,
+#wall > .parent > #tag-5.slick,
+#wall >  {
   display: none;
 }
